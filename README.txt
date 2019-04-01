@@ -1,7 +1,7 @@
 This project contains several executable files written in Python 3
 
 The primary algorithm is contained in the bowling.py file and can be tested by executing the test_bowling.py file
-by using a terminal with access to python, by navigating to the project folder and using the command "python test_bowling.py".
+by using a terminal with access to python, navigating to the project folder and using the command "python test_bowling.py".
 
 The project can similarly be run by navigating to the project folder and using the command "python bowling_algorithm.py"
 
